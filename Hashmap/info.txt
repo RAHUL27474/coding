@@ -1,0 +1,48 @@
+10 march
+    leetcode 2225: find players with zero or one losses
+        link : https://leetcode.com/problems/find-players-with-zero-or-one-losses/
+
+12 march    
+    leecode 2336: smallest number in infinite set
+        link : https://leetcode.com/problems/smallest-number-in-infinite-set/
+
+    leetcode 2352: Equal row and column pairs
+        link : https://leetcode.com/problems/equal-row-and-column-pairs/
+    
+    leetcode 1512: number of good pairs
+        link : https://leetcode.com/problems/number-of-good-pairs/
+16 march
+    leetcode 823: Binary trees with factor
+        link : https://leetcode.com/problems/binary-trees-with-factors/
+
+    leetcode 1743: Restore the array from adjacent pairs
+        link : https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
+
+    leetcode 1814: Count nice pairs in array
+        link : https://leetcode.com/problems/count-nice-pairs-in-an-array/
+
+    leetcode 1497 : Check if array pairs are divisible by k
+        link : https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
+
+    leetcode 3014 : MInimum number of pushes to type word 1
+        link : https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
+
+    leetcode 3016 : MInimum number of pushes to type word 2
+        link : https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/
+
+    leetcode 846: Hand of Straights
+        link : https://leetcode.com/problems/hand-of-straights/
+
+17 March
+    leetcode 648: Replace Words
+        link : https://leetcode.com/problems/replace-words/
+    
+    leetcode 2364: COunt number of Bad pairs
+        link : https://leetcode.com/problems/count-number-of-bad-pairs/
+
+
+
+
+
+
+    
